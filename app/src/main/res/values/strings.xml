@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">peretemuan6_1918114</string>
+    <string-array name="city_list">
+        <item>Bandung</item>
+        <item>Bima</item>
+        <item>Jogja</item>
+        <item>Malang</item>
+        <item>jakarta</item>
+    </string-array>
+
+</resources>
